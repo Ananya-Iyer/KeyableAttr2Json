@@ -1,0 +1,2614 @@
+{
+  "FKExtraPinkyToe3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKIndexFinger2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraChest_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKRingFinger0_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraLongToe2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraHead_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraJaw_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKIndexFinger0_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKMiddleFinger1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKRingToe1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraWrist_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "Fingers_R": {
+    "middleCurl": 0.0, 
+    "Fist": 0.0, 
+    "cup": 0.0, 
+    "indexCurl": 0.0, 
+    "spread": 0.0, 
+    "pinkyCurl": 0.0, 
+    "thumbCurl": 0.0, 
+    "ringCurl": 0.0
+  }, 
+  "FKMiddleFinger1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKPinkyToe3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraThumbFinger2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKIndexFinger0_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraRingToe3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraLongToe2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraPinkyToe3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKIndexFinger2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraPinkyToe1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKMiddleFinger3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKRingFinger0_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKRingToe3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKIndexFinger3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKcvSpine3_M": {
+    "translateZ": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "visibility": true
+  }, 
+  "FKExtraThumbFinger3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKExtraLeg_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraWrist_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraThumbFinger3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKIndexFinger3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKToes_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKLongToe2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKRingToe3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKMiddleFinger3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "RollToesEnd_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "PoleExtraLeg_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "Fingers_L": {
+    "middleCurl": 0.0, 
+    "Fist": 0.0, 
+    "cup": 0.0, 
+    "indexCurl": 0.0, 
+    "spread": 0.0, 
+    "pinkyCurl": 0.0, 
+    "thumbCurl": 0.0, 
+    "ringCurl": 0.0
+  }, 
+  "RollExtraHeel_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKMiddleToe2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraIndexFinger1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKPinkyFinger1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKPinkyToe3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKPinkyFinger1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "AimEye_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0, 
+    "follow": 10.0
+  }, 
+  "PoleExtraArm_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKMiddleToe2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "AimEye_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0
+  }, 
+  "RollExtraHeel_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "PoleExtraLeg_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "RollToesEnd_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKThumbFinger1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKLeg_L": {
+    "Fatness2": 0.0, 
+    "Fatness1": 0.0, 
+    "swivel": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "Lenght2": 1.0, 
+    "volume": 10.0, 
+    "rock": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0, 
+    "rollAngle": 25.0, 
+    "antiPop": 0.0, 
+    "stretchy": 0.0, 
+    "roll": 0.0, 
+    "Lenght1": 1.0
+  }, 
+  "FKPinkyFinger3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKcvSpine4_M": {
+    "translateZ": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "visibility": true
+  }, 
+  "IKExtracvSpine2_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraMiddleFinger0_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKThumbFinger3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKhybridExtraSpine2_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraBigToe2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraPinkyFinger2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKShoulder_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKRingFinger2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraMiddleFinger2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKRingToe1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraBigToe2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraPinkyFinger2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKThumbFinger3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "Ear_Sec03_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraMiddleFinger0_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKLeg_R": {
+    "Fatness2": 0.0, 
+    "Fatness1": 0.0, 
+    "swivel": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "Lenght2": 1.0, 
+    "volume": 10.0, 
+    "rock": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0, 
+    "rollAngle": 25.0, 
+    "antiPop": 0.0, 
+    "stretchy": 0.0, 
+    "roll": 0.0, 
+    "Lenght1": 1.0
+  }, 
+  "FKPinkyFinger3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKThumbFinger1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKLongToe1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraKnee_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraIndexFinger3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraToes_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraPinkyToe2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKPinkyToe2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKExtracvSpine4_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraLongToe1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraRingToe2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "RollHeel_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "RollHeel_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraLongToe1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraRingToe2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKPinkyToe2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraRingFinger0_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraToes_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraPinkyToe2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraKnee_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraIndexFinger3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKLongToe1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraRingToe1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKExtracvSpine5_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKShoulder_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraLongToe3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraRingFinger3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKPinkyToe1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraShoulder_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKPinkyFinger0_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraMiddleToe1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKBigToe2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraRingFinger1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKLongToe3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraPinkyToe1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraThumbFinger2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraRingFinger1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKLongToe3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKBigToe2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraMiddleToe1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraShoulder_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraRingFinger3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKPinkyToe1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraLongToe3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKHead_M": {
+    "Head": false, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "Global": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0, 
+    "Secondries": 0.0, 
+    "Neck": false
+  }, 
+  "FKExtraIndexFinger0_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKExtracvSpine1_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKPinkyFinger0_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKElbow_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraSpine1_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKIKSpine_M": {
+    "Spine": false, 
+    "FKIKBlend": 0.0, 
+    "FKVis": true, 
+    "Secondries": 0.0, 
+    "IKVis": true
+  }, 
+  "FKBigToe1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraElbow_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKIKArm_L": {
+    "IKVis": true, 
+    "FKVis": true, 
+    "LowerArm": false, 
+    "FKIKBlend": 0.0, 
+    "UpperArm": false, 
+    "Secondries": 0.0
+  }, 
+  "FKMiddleToe3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKMiddleToe3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKIKArm_R": {
+    "IKVis": true, 
+    "FKVis": true, 
+    "LowerArm": false, 
+    "FKIKBlend": 0.0, 
+    "UpperArm": false, 
+    "Secondries": 0.0
+  }, 
+  "FKBigToe1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraElbow_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKElbow_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKLongToe2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKPinkyFinger2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKcvSpine5_M": {
+    "translateZ": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "visibility": true
+  }, 
+  "FKExtraScapula_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKSpine1_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "stiff": 5.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0, 
+    "FixedOrient": 0.0
+  }, 
+  "FKExtraPinkyFinger1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraEye_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraPinkyFinger3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraMiddleFinger1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraPinkyFinger3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraEye_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraPinkyFinger1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "RollToes_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKSpine3_M": {
+    "volume": 10.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "stiff": 5.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0, 
+    "follow": 10.0, 
+    "stretchy": 10.0
+  }, 
+  "IKExtraSpine3_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraPinkyFinger0_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraRingToe1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "RootX_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "CenterBtwFeet": 0.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKScapula_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraMiddleFinger2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKJaw_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKhybridSpine2_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "AimEye_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0
+  }, 
+  "FKScapula_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKPinkyFinger2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKcvSpine1_M": {
+    "translateZ": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "visibility": true
+  }, 
+  "IKExtraSpine1_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraRingToe3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraPinkyFinger0_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKMiddleFinger2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraIndexFinger2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKHip_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "PoleLeg_L": {
+    "follow": 10.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "lock": 0.0
+  }, 
+  "FKExtraRingFinger2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraRingFinger2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKhybridExtraSpine3_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "PoleLeg_R": {
+    "follow": 10.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "lock": 0.0
+  }, 
+  "FKExtraRingFinger0_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKArm_R": {
+    "volume": 10.0, 
+    "Fatness1": 0.0, 
+    "Fatness2": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "Lenght2": 1.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0, 
+    "follow": 0.0, 
+    "antiPop": 0.0, 
+    "stretchy": 0.0, 
+    "Lenght1": 1.0
+  }, 
+  "FKExtraIndexFinger0_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKAnkle_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "Ear_Sec02_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraChest_F_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraAnkle_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "Ear_Sec01_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraMiddleToe3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKExtraSpine2_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraMiddleToe3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "Ear_Sec01_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraAnkle_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraChest_F_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKRingFinger2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKAnkle_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "RollExtraToesEnd_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKIKLeg_R": {
+    "UpperLeg": false, 
+    "LowerLeg": false, 
+    "IKVis": true, 
+    "FKVis": true, 
+    "FKIKBlend": 10.0, 
+    "Secondries": 0.0
+  }, 
+  "FKExtraScapula_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKMiddleToe1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKChest_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKExtraToes_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKThumbFinger2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKExtraToes_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraIndexFinger2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKSpine2_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0, 
+    "followEnd": 5.0
+  }, 
+  "FKMiddleToe1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKArm_L": {
+    "volume": 10.0, 
+    "Fatness1": 0.0, 
+    "Fatness2": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "Lenght2": 1.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0, 
+    "follow": 0.0, 
+    "antiPop": 0.0, 
+    "stretchy": 0.0, 
+    "Lenght1": 1.0
+  }, 
+  "RollExtraToesEnd_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKToes_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKRingToe2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKRingFinger3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKMiddleFinger0_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKhybridSpine3_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraThumbFinger1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKhybridExtraSpine1_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKSpine1_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "RollExtraToes_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKExtraArm_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraBigToe1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKIndexFinger1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKIndexFinger1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKHip_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraBigToe1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "RollExtraToes_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "IKExtraArm_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraThumbFinger1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "Main": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "PlaceholderScale": 1.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "PlaceholderVis": false, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0, 
+    "SkeletonVis": false, 
+    "Mesh_Display": 2, 
+    "UniHumanVis": true, 
+    "PlaceholderDisplay": 2
+  }, 
+  "FKExtraRoot_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKRingFinger3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKWrist_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKMiddleFinger2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraCup_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKToes_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKRingToe2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKEye_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "Ear_Sec02_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKRingFinger1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKcvSpine2_M": {
+    "translateZ": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "visibility": true
+  }, 
+  "FKKnee_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKhybridSpine1_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKKnee_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKRingFinger1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKEye_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraHip_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKToes_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraCup_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKRoot_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKWrist_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKChest_F_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKNeck_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKMiddleFinger0_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraMiddleToe2_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraMiddleToe2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "PoleExtraArm_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "HipSwinger_M": {
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "visibility": true
+  }, 
+  "FKIKLeg_L": {
+    "UpperLeg": false, 
+    "LowerLeg": false, 
+    "IKVis": true, 
+    "FKVis": true, 
+    "FKIKBlend": 10.0, 
+    "Secondries": 0.0
+  }, 
+  "IKExtraLeg_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "PoleArm_R": {
+    "follow": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "lock": 0.0
+  }, 
+  "Ear_Sec03_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKChest_F_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "RollToes_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKCup_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraMiddleFinger3_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraNeck_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraMiddleFinger1_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKThumbFinger2_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "FKExtraHip_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKNeck1_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "IKExtracvSpine3_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "RootExtraX_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraIndexFinger1_L": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKExtraMiddleFinger3_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }, 
+  "FKCup_R": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "scaleX": 1.0, 
+    "scaleY": 1.0, 
+    "visibility": true, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0, 
+    "scaleZ": 1.0
+  }, 
+  "PoleArm_L": {
+    "follow": 0.0, 
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "lock": 0.0
+  }, 
+  "FKExtraNeck1_M": {
+    "translateX": 0.0, 
+    "translateY": 0.0, 
+    "translateZ": 0.0, 
+    "rotateX": 0.0, 
+    "rotateY": 0.0, 
+    "rotateZ": 0.0
+  }
+}
