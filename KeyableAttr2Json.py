@@ -4,7 +4,7 @@ import os, sys
 obj_sets = [i for i in pm.selected() if i.name() == "ControlSet" and i.nodeType()=="objectSet"]
 if not obj_sets:
     raise
-main_dict = {}
+dict_of_items = {}
 for obj_set in obj_sets:
     obj_set_children = pm.sets(obj_set, q=1)
     for item in obj_set_children:
@@ -17,8 +17,8 @@ for obj_set in obj_sets:
 
 if os.path.exists('C:/temp'):
     path = 'c:/temp/'
-else:
-    path = raw_input()
+# else:
+#     path = raw_input()
 
 if path:
     with open('{}/out.json'.format(path), 'w') as writer:
